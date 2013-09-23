@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Shigeru-Kondou.github.io/octo/atom.xml" rel="self"/>
   <link href="http://Shigeru-Kondou.github.io/octo/"/>
-  <updated>2013-09-23T11:15:46+09:00</updated>
+  <updated>2013-09-23T11:24:33+09:00</updated>
   <id>http://Shigeru-Kondou.github.io/octo/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://Shigeru-Kondou.github.io/octo/blog/2013/09/23/test/"/>
+    <updated>2013-09-23T11:23:00+09:00</updated>
+    <id>http://Shigeru-Kondou.github.io/octo/blog/2013/09/23/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
